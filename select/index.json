@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Holiday∞Holiday",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-03-30T15:25:23.094868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Holiday / Holiday Season - Medley",
+      "artist": "Michael W. Smith",
+      "has_synced": true,
+      "path": "select/01_Happy_Holiday___Holiday_Season_-_Medley_Michael_W._Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Holiday / Holiday Season",
+      "artist": "Michael W. Smith",
+      "has_synced": true,
+      "path": "select/02_Happy_Holiday___Holiday_Season_Michael_W._Smith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Holiday∞Holiday",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/03_Holiday∞Holiday_スリーズブーケ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock Holiday (Holiday Version)",
+      "artist": "Susan Ditta/Foxycleopatraandthegogosisters",
+      "has_synced": false,
+      "path": "select/04_Rock_Holiday_(Holiday_Version)_Susan_Ditta_Foxycleopatraandthegogosisters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Need a Bae for the Holiday (Holiday Edition)",
+      "artist": "Skippy Stone",
+      "has_synced": false,
+      "path": "select/05_I_Need_a_Bae_for_the_Holiday_(Holiday_Edition)_Skippy_Stone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holiday (Holiday)",
+      "artist": "SECRET NUMBER",
+      "has_synced": true,
+      "path": "select/06_Holiday_(Holiday)_SECRET_NUMBER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Holiday ⁄ Holiday Season",
+      "artist": "Michael W․ Smith & Friends",
+      "has_synced": true,
+      "path": "select/07_Happy_Holiday_⁄_Holiday_Season_Michael_W._Smith_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Holiday Holiday (Remix Version)",
+      "artist": "Rishikesh Kamerkar",
+      "has_synced": false,
+      "path": "select/08_Holiday_Holiday_(Remix_Version)_Rishikesh_Kamerkar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Holiday Holiday",
+      "artist": "Rishikesh Kamerkar",
+      "has_synced": true,
+      "path": "select/09_Holiday_Holiday_Rishikesh_Kamerkar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Holiday / Holiday Season",
+      "artist": "Pop",
+      "has_synced": true,
+      "path": "select/10_Happy_Holiday___Holiday_Season_Pop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Holiday / Holiday Season",
+      "artist": "Michael W. Smith & Friends",
+      "has_synced": true,
+      "path": "select/11_Happy_Holiday___Holiday_Season_Michael_W._Smith_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Holiday Holiday",
+      "artist": "Cerise Bouquet",
+      "has_synced": false,
+      "path": "select/12_Holiday_Holiday_Cerise_Bouquet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Holiday∞Holiday",
+      "artist": "Cerise Bouquet",
+      "has_synced": true,
+      "path": "select/13_Holiday∞Holiday_Cerise_Bouquet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holiday∞Holiday",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_Holiday∞Holiday_スリーズブーケ.txt"
+    }
+  ]
+}
